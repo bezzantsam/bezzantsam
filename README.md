@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bezzantsam
 - 👀 I’m interested in full stack development and blockchain technology.
 - 🌱 I’m currently learning React ,Next.JS
-- 💞️ I’m looking to collaborate on projects using React
+- 💞️ I’m looking to collaborate and learn from others.
 - 📫 How to reach me bezzantsam@gmail.com 
 
 <!---
