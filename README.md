@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bezzantsam
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning Algorithms and Computer Science
+- 🌱 I’m currently learning Typescript, Postgresql
 - 💞️ I’m looking for a junior software development role
 - 📫 How to reach me bezzantsam@gmail.com 
 
