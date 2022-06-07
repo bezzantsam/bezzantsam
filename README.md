@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bezzantsam
+- 👋 Hi, I’m Sam Bezzant and I am a ful-stack software developer
 - 👀 I’m interested in full stack web development
 - 🌱 I’m currently learning Typescript, Postgresql, NextJS, Postico
 - 💞️ I’m looking for a junior software development role
