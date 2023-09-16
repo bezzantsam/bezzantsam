@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sam Bezzant and I am a Frontend developer currently looking for a junior role.
-- 👀 I’m interested in web development, classic literature, mushroom foraging, pickleball, classic cars and an endless list of curiosities.
-- 🌱 I’m currently learning: MaterialUI, TailwindCSS
+- 🌱 I’m currently learning: MaterialUI, TailwindCSS, NextJS
 - 💞️ Check out my portfolio site https://www.sambezzant.dev
 - 📫 How to reach me bezzantsam@gmail.com https://www.linkedin.com/in/sam-bezzant/
 
