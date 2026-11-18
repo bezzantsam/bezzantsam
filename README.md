@@ -18,6 +18,6 @@ Machine learning · Predictive analytics · Data pipelines · Full-stack develop
 
 ### 📫 Connect with me
 
-- **Portfolio:** [sambezzant.dev](https://www.sambezzant.dev)
+- **Portfolio:** [Selected projects](https://github.com/bezzantsam/bezzantsam/tree/main/projects)
 - **LinkedIn:** [linkedin.com/in/sam-bezzant](https://www.linkedin.com/in/sam-bezzant/)
 - **Email:** [bezzantsam@gmail.com](mailto:bezzantsam@gmail.com)
