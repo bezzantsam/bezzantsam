@@ -6,7 +6,7 @@ I earned my **B.S. in Organizational Leadership, magna cum laude, from Oregon St
 
 ### 🚀 What I'm building
 
-- **Chrome.ai** — A machine learning and data engineering project integrating environmental and fisheries data to develop predictive models for Pacific Northwest fishing conditions.
+- **[Chrome.ai](projects/chrome-ai.md)** studies whether a model can improve on seasonal timing for Buoy 10 Chinook. I built the fisheries data pipeline and a year-by-year evaluation, and froze the model for a prospective test in August 2027. [Explore the research site](https://chrome-ai-research.vercel.app/research).
 - **[RateMyGuidePNW](https://github.com/bezzantsam/ratemyguidepnw.com)** — A platform for finding and reviewing fishing guides, with business profiles and tools for guides.
 - **Reel One Adventures** — My fishing-focused digital media business, where I combine content creation, analytics, and entrepreneurship.
 
